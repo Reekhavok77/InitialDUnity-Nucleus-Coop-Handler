@@ -2,8 +2,6 @@
 
 A custom split-screen handler for **Nucleus Co-op** enabling local 2-player multiplayer for *Initial D Arcade Stage 3 Reimagined*
 
----
-
 ## Features
 * **2-Player Local Split-Screen:** Supports horizontal, vertical, or multi-monitor layouts.
 * **True Dual-Controller Isolation:** Uses ProtoInput (`OpenXinput` + Raw Input hooking) so two gamepads can control separate instances independently without input bleeding.
