@@ -1,6 +1,6 @@
 # Initial D Arcade Stage 3 Reimagined — Nucleus Co-op Handler
 
-A custom split-screen handler for **Nucleus Co-op** enabling local 2-player multiplayer for *Initial D Arcade Stage 3 Reimagined*
+A custom split-screen handler for **Nucleus Co-op** enabling local 2-player multiplayer for [*Initial D Arcade Stage 3 Reimagined*](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined)
 
 ## Features
 * **2-Player Local Split-Screen:** Supports horizontal, vertical, or multi-monitor layouts.
@@ -8,14 +8,11 @@ A custom split-screen handler for **Nucleus Co-op** enabling local 2-player mult
 * **Could be played with just controller and Keyboard
 * **Custom Borderless Window Scaling:** Automatically resizes and positions both Unity instances to fit your screen layout.
 
----
 
 ## Requirements
 * [Nucleus Co-op](https://nucleus-coop.github.io/) (Latest release recommended)
 * A working copy of [**Initial D Arcade Stage 3 Reimagined**](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined)
 * **2 Xinput controllers or just keyboard and controller
-
----
 
 ## Installation & Setup
 
@@ -29,8 +26,6 @@ A custom split-screen handler for **Nucleus Co-op** enabling local 2-player mult
    * Plug in or connect both controllers via Bluetooth **before** launching the game.
    * Ensure both controllers show up as gamepad icons in the Nucleus Co-op player assignment screen.
 
----
-
 ## How to Play (Important!)
 
 1. In Nucleus Co-op, select **Initial D Arcade Stage 3 Reimagined**.
@@ -39,8 +34,6 @@ A custom split-screen handler for **Nucleus Co-op** enabling local 2-player mult
 4. **Connect Multiplayer:** Use the in-game LAN / Multiplayer menu (Press F1) on both instances to join the same race lobby.
 5. Have both Players ready and have the one who created the lobby start the race
 6. have fun
-
----
 
 ## Troubleshooting
 
