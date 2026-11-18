@@ -38,7 +38,6 @@ A custom split-screen handler for **Nucleus Co-op** enabling local 2-player mult
 ## Troubleshooting
 
 * **Only 1 controller works / Controller 2 controls Player 1:**
-  * Make sure you pressed the **`END`** key after both windows finished resizing.
   * If using PlayStation or Switch controllers, make sure **DS4Windows** (or Steam Input) is running and emulating Xbox 360 (XInput) controllers before launching Nucleus Co-op.
 * **Second window refuses to open:**
   * Check if an instance of `InitialDUnity.exe` is already running in Task Manager and close it before launching through Nucleus Co-op.
