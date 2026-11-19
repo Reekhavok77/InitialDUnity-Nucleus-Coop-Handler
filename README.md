@@ -2,13 +2,6 @@
 
 A custom split-screen handler for **Nucleus Co-op** enabling local 2-player multiplayer for [*Initial D Arcade Stage 3 Reimagined*](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined)
 
-## Features
-* **2-Player Local Split-Screen:** Supports horizontal, vertical, or multi-monitor layouts.
-* **True Dual-Controller Isolation:** Uses ProtoInput (`OpenXinput` + Raw Input hooking) so two gamepads can control separate instances independently without input bleeding.
-* **Could be played with just controller and Keyboard
-* **Custom Borderless Window Scaling:** Automatically resizes and positions both Unity instances to fit your screen layout.
-
-
 ## Requirements
 * [Nucleus Co-op](https://nucleus-coop.github.io/) (Latest release recommended)
 * A working copy of [**Initial D Arcade Stage 3 Reimagined**](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined)
