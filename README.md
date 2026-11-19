@@ -10,10 +10,10 @@ A custom split-screen handler for **Nucleus Co-op** enabling local 2-player mult
 ## Installation & Setup
 
 1. **Download the Handler**
-   * Download the `.js` handler file from [this](https://github.com/Reekhavok77/InitialDUnity-Nucleus-Coop-Handler/releases ) repository (or click **Code > Download ZIP** and extract it).
+   * Download the `.js` handler file from [this](https://github.com/Reekhavok77/InitialDUnity-Nucleus-Coop-Handler/releases ) repository.
 2. **Add to Nucleus Co-op**
    * Open **Nucleus Co-op**.
-   * Drag the js file to Nucleus Coop ui (or extract the `.js` file directly into your `NucleusCoop/handlers/` folder).
+   * Drag the js file to Nucleus Coop ui (or put `.js` file directly into your `NucleusCoop/handlers/` folder).
    * Locate and select `InitialDUnity.exe` when prompted.
 3. **Connect Your Controllers**
    * Plug in or connect both controllers via Bluetooth **before** launching the game.
